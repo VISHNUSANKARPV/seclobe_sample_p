@@ -39,7 +39,7 @@ flutter run
 
 ```
 
-### Libraries & Tools Used 
+## Libraries & Tools Used 
 
 * [carousel_slider](https://pub.dev/packages/carousel_slider)
 * [flutter_image_slideshow](https://pub.dev/packages/flutter_image_slideshow)
