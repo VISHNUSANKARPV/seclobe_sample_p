@@ -14,8 +14,7 @@ apks for diffrent platforms
 
 Download or clone this repo by using the link below:
 
-```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+```https://github.com/VISHNUSANKARPV/seclobe_sample_project.git
 ```
 
 **Step 2:**
